@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Kelompok4</string>
+    <string-array name="data_nama">
+        <item>Action Game</item>
+        <item>Fighting Game</item>
+        <item>First Person Shooter (FPS)</item>
+        <item>Third Person Shooter (TPS)</item>
+        <item>Real Time Strategy (RTS)</item>
+        <item>Role Playing Game (RPG)</item>
+        <item>Adventure</item>
+        <item>Simulasi</item>
+        <item>Sport Game</item>
+        <item>Racing Game</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Game jenis ini menghadirkan fitur utama berupa aksi. Dalam action game, pemain harus memiliki ketrampilan dan reaksi yang cepat untuk melawan musuh dan menghindari rintangan. Intinya dalam game ini pemain harus menggunakan refles, akurasi dan waktu yang tepat untuk menyelesaikan sebuah level game.</item>
+        <item>Game satu ini berisi pertarungan. Dalam game ini, pemain dapat memilih karakter dengan kemampuan berbeda-beda. Pemain juga bisa mengeluarkan jurus dan kemampuan berbeda dari tiap karakter untuk mengalahkan musuh. Biasanya pertarungan hadir secara one on one (satu lawan satu) dalam sebuah arena yang terbatas.</item>
+        <item>Sesuai namanya, game jenis ini berisi tembak-menembak. Namun, dalam game ini kamu akan memainkan tokoh dengan cara pandang orang pertama. Tak heran dalam beberapa game, karakter hanya ditampilkan dalam bentuk tangan atau senjata saja. Dalam game FPS ini kamu akan menemukan berbagai misi yang harus kamu selesaikan. Intinya dalam game ini, pemain membutuhkan reflex, koordinasi mata dan tangan hingga waktu yang tepat.</item>
+        <item>Game ini sebetulnya mirip dengan FPS. Game tembak menembak ini hanya berbeda pada sudut pandang pemain. Biasanya game ini akan menampilkan pemain tampak setengah badan atau sudut pandang orang ketiga.</item>
+        <item>Game jenis ini menitikberatkan unsur strategi. Game ini memerlukan kemampuan pemain untuk memimpin sebuah pasukan, kemudian mengelola sumber daya hingga membangun peradaban. Tak heran bila game ini memiliki waktu permainan yang lebih lama dan bisa dikerjakan santai. Setelah pembangunan selesai, kamu bisa berperang dengan pasukan lain untuk merebut kekuasaan. Maka dibutuhkan strategi yang pas dan hati-hati agar pasukan bisa menang dan wilayah sendiri tidak diserang.</item>
+        <item>Game ini menghadirkan gameplay yang mengandung unsur leveling. Dalam game ini pemain akan bebas menjelajah dunia game. Setiap karakter memiliki kemampuan dan kekuatan yang berbeda bahkan dapat berkembang sesuai yang dinginkan pemain. Game RPG memungkinkan pemain untuk berkompetisi hingga berinteraksi atau bertarung dengan pemain lain. Beberapa Game RPG bahkan membuat pemain bisa menentukan ending dari jalan cerita game tersebut. Game RPG terbagi menjadi dua jenis yakni Action RPG dan turn based RPG.</item>
+        <item>Game jenis ini berisi tentang petualangan. Pemain bisa memainkan karakter untuk menjelah hutan belantara atau menjelajahi sebuah bangunan. Intinya, pemain akan melalui sebuah misi. Game ini akan menekankan jalur cerita dan kemampuan berpikir pemain untuk menemukan petunjuk berikutnya.</item>
+        <item>Game dengan genre ini hadir dengan konsep yang mirip kenyataan. Semua faktor dalam game akan dibuat semirip dunia nyata, ada yang menceritakan kehidupan manusia atau kehidupan menjadi seorang walikota membangun sebuah kota. Dalam game ini semua keputusanmu berpengaruh pada karakter yang dimainkan. Inti dari game ini membuat pemain harus berpikir untuk mendirikan, membangun hingga mengatasi masalah dengan dana <terbatas class=""></terbatas></item>
+        <item>Game jenis ini hadir untuk para pemain yang gemar olah raga. Game ini memiliki gameplay berbagai jenis olahraga di dunia. Intinya, pemain akan melakukan pertandingan olahraga secara virtual.</item>
+        <item>Game ini berisi game balapan atau kemampuan mengemudi baik motor dan mobil atau kendaraan lainnya. Game ini akan memacu adrenalin pemain untuk menjadi yang tercepat di sirkuit.</item>
+    </string-array>
+
+    <array name="data_foto">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+    </array>
+</resources>
